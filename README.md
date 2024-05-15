@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MERN-stack, etc.,
 - 💞️ I’m looking to collaborate on projects to make a product of web application
 - 📫 How to reach me kotapatigowtham999@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can't make good jokes.
 
 <!---
 PES2UG21CS235/PES2UG21CS235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
